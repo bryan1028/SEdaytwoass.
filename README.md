@@ -12,7 +12,6 @@ A README is your project's description. It's a file where you tell people what y
 - Project name and description
 - Installation instructions
 - How to contribute (if it's open-source)
-- 
 This helps people jump right in and contribute or understand what you're working on without digging through your code.
 
 Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
